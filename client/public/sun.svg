@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Merkezdeki daire -->
+    <circle fill="#2196F3" cx="12" cy="12" r="7"/>
+    
+    <!-- 13 nokta - her biri 360/13 = ~27.69 derece aralıklarla -->
+    <circle fill="#2196F3" cx="12" cy="4" r="1.5"/> <!-- 0° -->
+    <circle fill="#2196F3" cx="15.5" cy="4.8" r="1.5"/> <!-- 27.69° -->
+    <circle fill="#2196F3" cx="18.2" cy="7.5" r="1.5"/> <!-- 55.38° -->
+    <circle fill="#2196F3" cx="19.6" cy="11" r="1.5"/> <!-- 83.07° -->
+    <circle fill="#2196F3" cx="19.2" cy="14.8" r="1.5"/> <!-- 110.76° -->
+    <circle fill="#2196F3" cx="17" cy="17.8" r="1.5"/> <!-- 138.45° -->
+    <circle fill="#2196F3" cx="13.8" cy="19.4" r="1.5"/> <!-- 166.14° -->
+    <circle fill="#2196F3" cx="10.2" cy="19.4" r="1.5"/> <!-- 193.83° -->
+    <circle fill="#2196F3" cx="7" cy="17.8" r="1.5"/> <!-- 221.52° -->
+    <circle fill="#2196F3" cx="4.8" cy="14.8" r="1.5"/> <!-- 249.21° -->
+    <circle fill="#2196F3" cx="4.4" cy="11" r="1.5"/> <!-- 276.9° -->
+    <circle fill="#2196F3" cx="5.8" cy="7.5" r="1.5"/> <!-- 304.59° -->
+    <circle fill="#2196F3" cx="8.5" cy="4.8" r="1.5"/> <!-- 332.28° -->
+  </g>
+</svg> 
